@@ -5205,10 +5205,10 @@ mmdb-lib@1.2.0:
   resolved "https://registry.yarnpkg.com/mmdb-lib/-/mmdb-lib-1.2.0.tgz#0ecd93f4942f65a2d09be0502fa9126939606727"
   integrity sha512-3XYebkStxqCgWJjsmT9FCaE19Yi4Tvs2SBPKhUks3rJJh52oF1AKAd9kei+LTutud3a6RCZ0o2Um96Fn7o3zVA==
 
-moment-timezone@^0.5.33:
-  version "0.5.33"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.33.tgz#b252fd6bb57f341c9b59a5ab61a8e51a73bbd22c"
-  integrity sha512-PTc2vcT8K9J5/9rDEPe5czSIKgLoGsH8UNpA4qZTVw0Vd/Uz19geE9abbIOQKaAQFcnQ3v5YEXrbSc5BpshH+w==
+moment-timezone@^0.5.35:
+  version "0.5.35"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.35.tgz#6fa2631bdbe8ff04f6b8753f7199516be6dc9839"
+  integrity sha512-cY/pBOEXepQvlgli06ttCTKcIf8cD1nmNwOKQQAdHBqYApQSpAqotBMX0RJZNgMp6i0PlZuf1mFtnlyEkwyvFw==
   dependencies:
     moment ">= 2.9.0"
 
