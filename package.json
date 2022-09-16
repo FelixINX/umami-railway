@@ -77,7 +77,7 @@
     "ipaddr.js": "^2.0.0",
     "is-localhost-ip": "^1.4.0",
     "isbot": "^3.0.26",
-    "jose": "2.0.5",
+    "jose": "2.0.6",
     "maxmind": "^4.3.1",
     "moment-timezone": "^0.5.33",
     "next": "^10.2.2",
